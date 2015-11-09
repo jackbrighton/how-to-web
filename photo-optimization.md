@@ -32,7 +32,7 @@ The file size of the second photo is less that 10 percent of the first image, ye
 
 ##How to Optimize Photos in Photoshop
 
-Best practice for optimization is to start with the highest-quality source photo, then resize and compress it for the web. Start by cropping and resizing the photo for the space it will fill on your web page. If the photo will be displayed in a sidebar widget that’s 300px wide, there’s no reason to upload an photo wider than 300px for that space. Reducing the size of the photo by itself will reduce its file size.
+Best practice for optimization is to start with the highest-quality source photo, then resize and compress it for the web. Start by cropping and resizing the photo for the space it will fill on your web page. If the photo will be displayed in a sidebar widget that’s 300px wide, there’s no reason to upload a photo wider than 300px for that space. Reducing the size of the photo by itself will reduce its file size.
 
 After the photo is cropped and sized, in the File menu go to Export -> Save for Web:
 
