@@ -1,4 +1,4 @@
-#Website Performance: Images
+#Website Performance: Photos
 
 photos on the web are important to telling stories and connecting with your audience. If the photos aren’t optimized, they can also weigh down your web pages and make them slow to load. To improve the performance of your website, photo optimization is often the best place to start.
 
