@@ -10,13 +10,11 @@ Consider these two images:
 
 ![image of Fragile Arch]
 (img/arches-1200px.jpg)
-Width: 1200px
-Height: 800px
-File Size: 939 Kilobytes
+**Not Optimized. Width: 1200px, Height: 800px, File Size: 939 Kilobytes**
 
 ![image of Fragile Arch]
 (img/arches-1200px-web.jpg)
-*Not Optimized. Width: 1200px, Height: 800px, File Size: 110 Kilobytes*
+**Optimized. Width: 1200px, Height: 800px, File Size: 110 Kilobytes**
 
 The second image has a file size of less than 12 percent of the first. You can probably see a slight degradation in the image quality. But most people would not notice the difference between these two on a web page. 
 
@@ -24,13 +22,11 @@ On the web we should not use any image with a file size of 939 Kilobytes. This w
 
 ![image of Fragile Arch]
 (img/arches-300px.jpg)
-*Optimized. Width: 300px, Height: 200px, File Size: 192 Kilobytes*
+**Not Optimized. Width: 300px, Height: 200px, File Size: 192 Kilobytes**
 
 ![image of Fragile Arch]
 (img/arches-300px-web.jpg)
-Width: 300px
-Height: 200px
-File Size: 14 Kilobytes
+**Optimized. Width: 300px, Height: 200px, File Size: 14 Kilobytes**
 
 ##How to Optimize Images in Photoshop
 
