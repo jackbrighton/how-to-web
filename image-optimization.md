@@ -9,13 +9,13 @@ Image optimization involves compressing the file size of image using a tool like
 Consider these two images:
 
 ![image of Fragile Arch]
-(img/arches-1200px,jpg)
+(img/arches-1200px.jpg)
 Width: 1200 px
 Height: 800 px
 File Size: 939 Kilobytes
 
 ![image of Fragile Arch]
-(/img/arches-1200px-web,jpg)
+(img/arches-1200px-web.jpg)
 Width: 1200 px
 Height: 800 px
 File Size: 110 Kilobytes
@@ -25,13 +25,13 @@ The second image has a file size of less than 12 percent of the first. You can p
 On the web we should not use any image with a file size of 939 Kilobytes. This will slow the loading of the page, especially on slower connections and mobile devices. We want to keep website images under 100 KB if we can, and much lower for smaller images. For example, here’s the same image reduced in dimensions:
 
 ![image of Fragile Arch]
-(/img/arches-300px,jpg)
+(img/arches-300px.jpg)
 Width: 300 px
 Height: 200 px
 File Size: 192 Kilobytes
 
 ![image of Fragile Arch]
-(/img/arches-300px-web,jpg)
+(img/arches-300px-web.jpg)
 Width: 300 px
 Height: 200 px
 File Size: 14 Kilobytes
@@ -43,12 +43,12 @@ Best practice for optimization is to start with the highest-quality source image
 After the image is cropped and sized, in the File menu select Save for Web:
 
 ![Save for Web dialogue box in Photoshop]
-(/img/save-for-web.jpg)
+(img/save-for-web.jpg)
 
 Here you can select which image format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original image and the JPEG export, click the 2-up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
 
 ![Closer view of Save for Web dialogue box in Photoshop]
-(/img/save-for-web-2.jpg)
+(img/save-for-web-2.jpg)
 
 Here’s a video from Lynda.com that explains [how to use this feature of Photoshop](https://youtu.be/OL0DwX7dnto).
 
