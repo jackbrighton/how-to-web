@@ -9,7 +9,7 @@ Image optimization involves compressing the file size of image using a tool like
 Consider these two images:
 
 ![image of Fragile Arch]
-(/img/arches-1200px,jpg)
+(img/arches-1200px,jpg)
 Width: 1200 px
 Height: 800 px
 File Size: 939 Kilobytes
