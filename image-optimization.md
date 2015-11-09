@@ -50,7 +50,9 @@ Here you can select which image format to export (always use JPEG for photos), a
 ![Closer view of Save for Web dialogue box in Photoshop]
 (img/save-for-web-2.png)
 
-Here’s a video from Lynda.com that explains [how to use this feature of Photoshop](https://youtu.be/OL0DwX7dnto).
+###More Tutorials as needed
+
+Here’s a video from Lynda.com that explains [how to use Save for Web in Photoshop](https://youtu.be/OL0DwX7dnto).
 
 Here’s another really good [tutorial on Photoshop’s Save For Web](http://photography.tutsplus.com/tutorials/save-for-web-better-jpeg-compression-with-adobe-photoshop--cms-23080) that walks through the process. 
 
