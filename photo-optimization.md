@@ -39,7 +39,7 @@ After the photo is cropped and sized, in the File menu go to Export -> Save for 
 ![Save for Web dialogue box in Photoshop]
 (img/save-for-web.png)
 
-Here you can select which photo format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original photo and the JPEG export, click the 2-up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
+Here you can select which photo format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original photo and the JPEG export, click the 2-Up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
 
 ![Closer view of Save for Web dialogue box in Photoshop]
 (img/save-for-web-2.png)
