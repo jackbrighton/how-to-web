@@ -14,7 +14,7 @@ Consider these two images:
 
 ![image of Fragile Arch]
 (img/arches-1200px-web.jpg)
-**Optimized. Width: 1200px, Height: 800px, File Size: 110 Kilobytes**
+**Optimized. Width: 1200px, Height: 800px, File Size: 107 Kilobytes**
 
 The second image has a file size of less than 12 percent of the first. You can probably see a slight degradation in the image quality. But most people would not notice the difference between these two on a web page. 
 
