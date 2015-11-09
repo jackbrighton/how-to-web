@@ -1,2 +1,2 @@
 # how-to-web
-Brief Tutorials on key web content topics
+Brief tutorials on things we can do to improve website performance and quality, and to promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity.
