@@ -18,7 +18,7 @@ Consider these two images:
 
 The second image has a file size of less than 12 percent of the first. You can probably see a slight degradation in the image quality. But most people would not notice the difference between these two on a web page. 
 
-On the web we should not use any image with a file size of 939 Kilobytes. This will slow the loading of the page, especially on slower connections and mobile devices. We want to keep website images under 100 KB if we can, and much lower for smaller images. For example, here’s the same image reduced in dimensions:
+On the web we should never use any image with a file size like 939 Kilobytes. This will slow the loading of the page, especially on slower connections and mobile devices. We want to keep website images under 100 KB if we can, and much lower for smaller images. For example, here’s the same image reduced in dimensions:
 
 ![image of Fragile Arch]
 (img/arches-300px.jpg)
@@ -59,3 +59,9 @@ Tip: If you like keyboard shortcuts, in Photoshop you can launch Save for Web li
 If you don’t use Photoshop, there are any number of other tools for optimizing website images. 
 
 Compressor.io is a free online tool. You can drag and drop a source image into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing image quality and file size. But if you have an image sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
+
+##Your Image Workflow
+
+If you've produced photos for print, you know it's important to maintain the highest quality image throughout the process. But with today's cameras, the highest quality image is likely to be 5000 pixels wide, and more than 20 Megabytes in file size. Such an image is great for print, but a problem on the web. 
+
+Best practice is to safely store the original image files in their highest resolution, for the day when you need to resize or reuse them in another context. Use the original images to crop, size, and export for the web. 
