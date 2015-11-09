@@ -8,13 +8,33 @@ Image optimization involves compressing the file size of image using a tool like
 
 Consider these two images:
 
-_images_
+![image of Fragile Arch]
+(/img/arches-1200px,jpg)
+Width: 1200 px
+Height: 800 px
+File Size: 939 Kilobytes
+
+![image of Fragile Arch]
+(/img/arches-1200px-web,jpg)
+Width: 1200 px
+Height: 800 px
+File Size: 110 Kilobytes
 
 The second image has a file size of less than 12 percent of the first. You can probably see a slight degradation in the image quality. But most people would not notice the difference between these two on a web page. 
 
 On the web we should not use any image with a file size of 939 Kilobytes. This will slow the loading of the page, especially on slower connections and mobile devices. We want to keep website images under 100 KB if we can, and much lower for smaller images. For example, here’s the same image reduced in dimensions:
 
-_images_
+![image of Fragile Arch]
+(/img/arches-300px,jpg)
+Width: 300 px
+Height: 200 px
+File Size: 192 Kilobytes
+
+![image of Fragile Arch]
+(/img/arches-300px-web,jpg)
+Width: 300 px
+Height: 200 px
+File Size: 14 Kilobytes
 
 ##How to Optimize Images in Photoshop
 
@@ -22,11 +42,13 @@ Best practice for optimization is to start with the highest-quality source image
 
 After the image is cropped and sized, in the File menu select Save for Web:
 
-_image_
+![Save for Web dialogue box in Photoshop]
+(/img/save-for-web.jpg)
 
 Here you can select which image format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original image and the JPEG export, click the 2-up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
 
-_image_
+![Closer view of Save for Web dialogue box in Photoshop]
+(/img/save-for-web-2.jpg)
 
 Here’s a video from Lynda.com that explains [how to use this feature of Photoshop](https://youtu.be/OL0DwX7dnto).
 
@@ -37,4 +59,3 @@ Here’s another really good [tutorial on Photoshop’s Save For Web](http://pho
 If you don’t use Photoshop, there are any number of other tools for optimizing website images. 
 
 Compressor.io is a free online tool. You can drag and drop a source image into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing image quality and file size. But if you have an image sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
-
