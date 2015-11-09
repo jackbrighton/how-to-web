@@ -28,7 +28,7 @@ On the web we should not use any image with a file size of 939 Kilobytes. This w
 (img/arches-300px-web.jpg)
 **Optimized. Width: 300px, Height: 200px, File Size: 14 Kilobytes**
 
-The file size of the second image is less that 10 percent of the first image, yet most people would see no difference in image quality. If you have a web page displaying a number of similar-sized images, for example a gallery page, the reduction in the  file sizes add up a huge difference in page loading time.
+The file size of the second image is less that 10 percent of the first image, yet most people would see no difference in image quality. If you have a web page displaying a number of similar-sized images, for example a gallery page, smaller image file sizes can add up a huge reduction in page loading time.
 
 ##How to Optimize Images in Photoshop
 
