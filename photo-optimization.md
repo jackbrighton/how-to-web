@@ -60,7 +60,7 @@ If you don’t use Photoshop, there are any number of other tools for optimizing
 
 Compressor.io is a free online tool. You can drag and drop a source photo into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing photo quality and file size. But if you have a photo sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
 
-##Your photo Workflow
+##Your Photo Workflow
 
 If you've produced photos for print, you know it's important to maintain the highest quality photo throughout the process. But with today's cameras, the highest quality photo is likely to be 5000 pixels wide, and more than 20 Megabytes in file size. Such a photo is great for print, but a problem on the web. 
 
