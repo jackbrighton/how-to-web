@@ -10,14 +10,14 @@ Consider these two images:
 
 ![image of Fragile Arch]
 (img/arches-1200px.jpg)
-Width: 1200 px
-Height: 800 px
+Width: 1200px
+Height: 800px
 File Size: 939 Kilobytes
 
 ![image of Fragile Arch]
 (img/arches-1200px-web.jpg)
-Width: 1200 px
-Height: 800 px
+Width: 1200px
+Height: 800px
 File Size: 110 Kilobytes
 
 The second image has a file size of less than 12 percent of the first. You can probably see a slight degradation in the image quality. But most people would not notice the difference between these two on a web page. 
@@ -26,19 +26,19 @@ On the web we should not use any image with a file size of 939 Kilobytes. This w
 
 ![image of Fragile Arch]
 (img/arches-300px.jpg)
-Width: 300 px
-Height: 200 px
+Width: 300px
+Height: 200px
 File Size: 192 Kilobytes
 
 ![image of Fragile Arch]
 (img/arches-300px-web.jpg)
-Width: 300 px
-Height: 200 px
+Width: 300px
+Height: 200px
 File Size: 14 Kilobytes
 
 ##How to Optimize Images in Photoshop
 
-Best practice for optimization is to start with the highest-quality source image, then resize and compress it for the web. Start by cropping and resizing the image for the space it will fill on your web page. If the image will be displayed in a sidebar widget that’s 300 px wide, there’s no reason to upload an image wider than 300 px for that space. Reducing the size of the image by itself will reduce its file size.
+Best practice for optimization is to start with the highest-quality source image, then resize and compress it for the web. Start by cropping and resizing the image for the space it will fill on your web page. If the image will be displayed in a sidebar widget that’s 300px wide, there’s no reason to upload an image wider than 300px for that space. Reducing the size of the image by itself will reduce its file size.
 
 After the image is cropped and sized, in the File menu select Save for Web:
 
