@@ -58,7 +58,7 @@ Tip: If you like keyboard shortcuts, in Photoshop you can launch Save for Web li
 
 If you don’t use Photoshop, there are any number of other tools for optimizing website images. 
 
-Compressor.io is a free online tool. You can drag and drop a source photo into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing photo quality and file size. But if you have an photo sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
+Compressor.io is a free online tool. You can drag and drop a source photo into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing photo quality and file size. But if you have a photo sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
 
 ##Your photo Workflow
 
