@@ -62,6 +62,6 @@ Compressor.io is a free online tool. You can drag and drop a source photo into i
 
 ##Your photo Workflow
 
-If you've produced photos for print, you know it's important to maintain the highest quality photo throughout the process. But with today's cameras, the highest quality photo is likely to be 5000 pixels wide, and more than 20 Megabytes in file size. Such an photo is great for print, but a problem on the web. 
+If you've produced photos for print, you know it's important to maintain the highest quality photo throughout the process. But with today's cameras, the highest quality photo is likely to be 5000 pixels wide, and more than 20 Megabytes in file size. Such a photo is great for print, but a problem on the web. 
 
 Best practice is to safely store the original photo files in their highest resolution, for the day when you need to resize or reuse them in another context. Use the original photos to crop, size, and export for the web, then keep the originals safe for future use.
