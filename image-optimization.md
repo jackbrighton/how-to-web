@@ -28,11 +28,13 @@ On the web we should not use any image with a file size of 939 Kilobytes. This w
 (img/arches-300px-web.jpg)
 **Optimized. Width: 300px, Height: 200px, File Size: 14 Kilobytes**
 
+The file size of the second image is less that 10 percent of the first image, yet most people would see no difference in image quality. If you have a web page displaying a number of similar-sized images, for example a gallery page, the difference in image file size makes a huge difference in page loading time.
+
 ##How to Optimize Images in Photoshop
 
 Best practice for optimization is to start with the highest-quality source image, then resize and compress it for the web. Start by cropping and resizing the image for the space it will fill on your web page. If the image will be displayed in a sidebar widget that’s 300px wide, there’s no reason to upload an image wider than 300px for that space. Reducing the size of the image by itself will reduce its file size.
 
-After the image is cropped and sized, in the File menu select Save for Web:
+After the image is cropped and sized, in the File menu go to Export -> Save for Web:
 
 ![Save for Web dialogue box in Photoshop]
 (img/save-for-web.png)
@@ -42,11 +44,15 @@ Here you can select which image format to export (always use JPEG for photos), a
 ![Closer view of Save for Web dialogue box in Photoshop]
 (img/save-for-web-2.png)
 
-###More Tutorials as needed
+###More Tutorials on Photoshop's Save for Web
 
 Here’s a video from Lynda.com that explains [how to use Save for Web in Photoshop](https://youtu.be/OL0DwX7dnto).
 
 Here’s another really good [tutorial on Photoshop’s Save For Web](http://photography.tutsplus.com/tutorials/save-for-web-better-jpeg-compression-with-adobe-photoshop--cms-23080) that walks through the process. 
+
+Tip: If you like keyboard shortcuts, in Photoshop you can launch Save for Web like this:
+- Command + Shift + Option + s (Mac)
+- Control + Shift + Alt + s (Windows)
 
 ##Optimizing Images without Photoshop
 
