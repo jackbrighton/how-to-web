@@ -44,6 +44,8 @@ Here you can select which photo format to export (always use JPEG for photos), a
 ![Closer view of Save for Web dialogue box in Photoshop]
 (img/save-for-web-2.png)
 
+Once you're happy with the image quality and file size reduction, click Save to create your web-optimized photo. This will not affect your original image, which should be archived for possible use in the future.
+
 ###More Tutorials on Photoshop's Save for Web
 
 Here’s a video from Lynda.com that explains [how to use Save for Web in Photoshop](https://youtu.be/OL0DwX7dnto).
