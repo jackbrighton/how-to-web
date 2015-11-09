@@ -43,12 +43,12 @@ Best practice for optimization is to start with the highest-quality source image
 After the image is cropped and sized, in the File menu select Save for Web:
 
 ![Save for Web dialogue box in Photoshop]
-(img/save-for-web.jpg)
+(img/save-for-web.png)
 
 Here you can select which image format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original image and the JPEG export, click the 2-up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
 
 ![Closer view of Save for Web dialogue box in Photoshop]
-(img/save-for-web-2.jpg)
+(img/save-for-web-2.png)
 
 Here’s a video from Lynda.com that explains [how to use this feature of Photoshop](https://youtu.be/OL0DwX7dnto).
 
