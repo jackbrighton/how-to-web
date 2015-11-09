@@ -1,45 +1,45 @@
 #Website Performance: Images
 
-Images on the web are important to telling stories and connecting with your audience. If the images aren’t optimized, they can also weigh down your web pages and make them slow to load. To improve the performance of your website, image optimization is often the best place to start.
+photos on the web are important to telling stories and connecting with your audience. If the photos aren’t optimized, they can also weigh down your web pages and make them slow to load. To improve the performance of your website, photo optimization is often the best place to start.
 
-##What is Image Optimization
+##What is Photo Optimization
 
-Image optimization involves compressing the file size of image using a tool like Adobe Photoshop. We want the highest quality image with the smallest possible file size. Too much compression can impair the quality of the image. Too little compression can result in a large image file size which slows the performance of our web page. Optimization is finding the right balance between quality and file size.
+Photo optimization involves compressing the file size of photo using a tool like Adobe Photoshop. We want the highest quality photo with the smallest possible file size. Too much compression can impair the quality of the image. Too little compression can result in a large photo file size which slows the performance of our web page. Optimization is finding the right balance between quality and file size.
 
 Consider these two images:
 
-![image of Fragile Arch]
+![photo of Fragile Arch]
 (img/arches-1200px.jpg)
 **Not Optimized. Width: 1200px, Height: 800px, File Size: 939 Kilobytes**
 
-![image of Fragile Arch]
+![photo of Fragile Arch]
 (img/arches-1200px-web.jpg)
 **Optimized. Width: 1200px, Height: 800px, File Size: 107 Kilobytes**
 
-The second image has a file size of less than 12 percent of the first. You can probably see a slight degradation in the image quality. But most people would not notice the difference between these two on a web page. 
+The second photo has a file size of less than 12 percent of the first. You can probably see a slight degradation in the photo quality. But most people would not notice the difference between these two on a web page. 
 
-On the web we should never use any image with a file size like 939 Kilobytes. This will slow the loading of the page, especially on slower connections and mobile devices. We want to keep website images under 100 KB if we can, and much lower for smaller images. For example, here’s the same image reduced in dimensions:
+On the web we should never use any photo with a file size like 939 Kilobytes. This will slow the loading of the page, especially on slower connections and mobile devices. We want to keep website photos under 100 KB if we can, and much lower for smaller images. For example, here’s the same photo reduced in dimensions:
 
-![image of Fragile Arch]
+![photo of Fragile Arch]
 (img/arches-300px.jpg)
 **Not Optimized. Width: 300px, Height: 200px, File Size: 192 Kilobytes**
 
-![image of Fragile Arch]
+![photo of Fragile Arch]
 (img/arches-300px-web.jpg)
 **Optimized. Width: 300px, Height: 200px, File Size: 14 Kilobytes**
 
-The file size of the second image is less that 10 percent of the first image, yet most people would see no difference in image quality. If you have a web page displaying a number of similar-sized images, for example a gallery page, smaller image file sizes can add up a huge reduction in page loading time.
+The file size of the second photo is less that 10 percent of the first image, yet most people would see no difference in photo quality. If you have a web page displaying a number of similar-sized images, for example a gallery page, smaller photo file sizes can add up a huge reduction in page loading time.
 
-##How to Optimize Images in Photoshop
+##How to Optimize Photos in Photoshop
 
-Best practice for optimization is to start with the highest-quality source image, then resize and compress it for the web. Start by cropping and resizing the image for the space it will fill on your web page. If the image will be displayed in a sidebar widget that’s 300px wide, there’s no reason to upload an image wider than 300px for that space. Reducing the size of the image by itself will reduce its file size.
+Best practice for optimization is to start with the highest-quality source photo, then resize and compress it for the web. Start by cropping and resizing the photo for the space it will fill on your web page. If the photo will be displayed in a sidebar widget that’s 300px wide, there’s no reason to upload an photo wider than 300px for that space. Reducing the size of the photo by itself will reduce its file size.
 
-After the image is cropped and sized, in the File menu go to Export -> Save for Web:
+After the photo is cropped and sized, in the File menu go to Export -> Save for Web:
 
 ![Save for Web dialogue box in Photoshop]
 (img/save-for-web.png)
 
-Here you can select which image format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original image and the JPEG export, click the 2-up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
+Here you can select which photo format to export (always use JPEG for photos), and how much compression to apply. Medium is often the optimum setting, but this is a judgement call. If you don’t see a preview of both the Original photo and the JPEG export, click the 2-up tab at the top. Now you can try different compression settings and see a preview of the results, including the file size:
 
 ![Closer view of Save for Web dialogue box in Photoshop]
 (img/save-for-web-2.png)
@@ -54,14 +54,14 @@ Tip: If you like keyboard shortcuts, in Photoshop you can launch Save for Web li
 - Command + Shift + Option + s (Mac)
 - Control + Shift + Alt + s (Windows)
 
-##Optimizing Images without Photoshop
+##Optimizing Photos without Photoshop
 
 If you don’t use Photoshop, there are any number of other tools for optimizing website images. 
 
-Compressor.io is a free online tool. You can drag and drop a source image into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing image quality and file size. But if you have an image sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
+Compressor.io is a free online tool. You can drag and drop a source photo into it, and download a compressed version of the image. Compressor.io doesn’t have any cropping or resizing tools, and you can’t adjust the amount of compression. In our tests, Photoshop does a better job of balancing photo quality and file size. But if you have an photo sized correctly for your website, it’ll do in a pinch: [https://compressor.io/](https://compressor.io/)
 
-##Your Image Workflow
+##Your photo Workflow
 
-If you've produced photos for print, you know it's important to maintain the highest quality image throughout the process. But with today's cameras, the highest quality image is likely to be 5000 pixels wide, and more than 20 Megabytes in file size. Such an image is great for print, but a problem on the web. 
+If you've produced photos for print, you know it's important to maintain the highest quality photo throughout the process. But with today's cameras, the highest quality photo is likely to be 5000 pixels wide, and more than 20 Megabytes in file size. Such an photo is great for print, but a problem on the web. 
 
-Best practice is to safely store the original image files in their highest resolution, for the day when you need to resize or reuse them in another context. Use the original images to crop, size, and export for the web, then keep the originals safe for future use.
+Best practice is to safely store the original photo files in their highest resolution, for the day when you need to resize or reuse them in another context. Use the original photos to crop, size, and export for the web, then keep the originals safe for future use.
